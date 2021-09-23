@@ -1,0 +1,1 @@
+# AtividadePadroes-Singleton
